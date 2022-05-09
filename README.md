@@ -5,7 +5,7 @@
 #### Desde muy pequeña siempre me ha interesado la Tecnología, es por eso que decidí estudiar Ingeniería en Informática y creo que fué una de las mejores decisiones de mi vida, comencé a interesarme por la programación y la lógica, Me especialicé en Desarrollo de videjuegos, Realidad virtual y Aumentada, pero en el fondo sabía que el desarrollo web era para mi, soy muy creativa y me encanta que las personas interactuen con mis proyectos y tengan la mejor experiencia al usarlos.  
 
 🔭 Mis Habilidades Técnicas: <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
