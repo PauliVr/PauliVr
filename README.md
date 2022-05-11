@@ -1,4 +1,5 @@
-# ¡Hey! ¿Qué onda?, Soy Pau 👋🏼
+
+  <h1 align="center"> ¡Hey! ¿Qué onda?, Soy Pau 👋🏼 </h1>
 
 ### Soy desarrolladora web front-end en Javascript actualmente aprendiendo ReactJS y React Native 👩🏻‍💻
 
