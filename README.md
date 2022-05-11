@@ -5,6 +5,7 @@
 
 #### Desde muy pequeña siempre me ha interesado la Tecnología, es por eso que decidí estudiar Ingeniería en Informática y creo que fué una de las mejores decisiones de mi vida, comencé a interesarme por la programación y la lógica, Me especialicé en Desarrollo de videjuegos, Realidad virtual y Aumentada, pero en el fondo sabía que el desarrollo web era para mi, soy muy creativa y me encanta que las personas interactuen con mis proyectos y tengan la mejor experiencia al usarlos.  
 
+ <img align="right" src='https://i.postimg.cc/43B68DHp/Habitacion.png' border='0' alt='Habitacion'/> 
 🔭 Mis Habilidades Técnicas: <p align="left">
 
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
@@ -33,6 +34,8 @@
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="Flutter" /></a>
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Lavarel" /></a>
 </p>
+
+
 
 Algunas cosas sobre mí
 - 👯 Me encanta Codear 💻 pero mi pasión es Diseñar interfaces de usuario, pero shhh no se cuentes a nadie 🎨
