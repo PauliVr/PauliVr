@@ -40,7 +40,7 @@ Algunas cosas sobre mí
 - ✨ Idiomas: Español nativo, actualmente estoy aprendiendo Inglés🗽 y Coreano🌏 *만나서 반가워요.*
 - 🎮 Me gustan mucho los videojuegos y actualemte juego: Dead by Daylight, Overwatch, Fornite, GTA5 y algunos gustos culposos como Minercaft y FallGuys
 - ⚡ Amo jugar con Legos y escuchar música Coreana
-- 🤞🏻 Espero algún día pueda colaborar con una empresa que me brinde la libertad de explotar al máximo mi creatividad
+- 🤞🏻 Espero algún día pueda colaborar con una empresa que me brinde la libertad de explotar al máximo mi creatividad y conocimientos
 - 📫 Te dejo mi Linkedin por si quieres conectar https://www.linkedin.com/in/paulettevr/
 
 
