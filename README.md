@@ -1,7 +1,7 @@
 
   <h1 align="center"> ¡Hey! ¿Qué onda?, Soy Pau 👋🏼 </h1>
 
-### Soy desarrolladora web front-end en Javascript actualmente aprendiendo ReactJS y React Native 👩🏻‍💻
+### Soy desarrolladora web front-end en Javascript actualmente aprendiendo ReactJS y Lit (Web Components) 👩🏻‍💻
 
 #### Desde muy pequeña siempre me ha interesado la Tecnología, es por eso que decidí estudiar Ingeniería en Informática y creo que fué una de las mejores decisiones de mi vida, comencé a interesarme por la programación y la lógica, Me especialicé en Desarrollo de videjuegos, Realidad virtual y Aumentada, pero en el fondo sabía que el desarrollo web era para mi, soy muy creativa y me encanta que las personas interactuen con mis proyectos y tengan la mejor experiencia al usarlos.  
 
